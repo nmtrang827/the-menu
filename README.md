@@ -1,4 +1,4 @@
-# My First Menu
+# MyFirstGame
 A Unity menu project built with UI Canvas, buttons, sound effects, and a scoring system.
 
 ## Contributors
